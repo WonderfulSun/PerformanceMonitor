@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerformanceMonitor", "PerformanceMonitor.csproj", "{1B482A27-4B10-46FA-9CFF-F5D33204261F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B482A27-4B10-46FA-9CFF-F5D33204261F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B482A27-4B10-46FA-9CFF-F5D33204261F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B482A27-4B10-46FA-9CFF-F5D33204261F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B482A27-4B10-46FA-9CFF-F5D33204261F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74871D10-16A9-4053-93CF-7E66A8B58E3F}
+	EndGlobalSection
+EndGlobal
